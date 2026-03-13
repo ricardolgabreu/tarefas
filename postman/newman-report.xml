@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="tasklist_phase2_lab3" tests="7" time="0.591">
+  <testsuite name="user / http://localhost:7100/user" id="b40965bb-1fd7-4c55-8a3e-79ac61fba01a" timestamp="2026-02-13T11:22:02.217Z" tests="0" failures="0" errors="0" time="0.450"/>
+  <testsuite name="login / http://localhost:7100/login" id="edfceb2c-a5a2-4fb2-b429-717381767e0e" timestamp="2026-02-13T11:22:02.217Z" tests="0" failures="0" errors="0" time="0.043"/>
+  <testsuite name="todolist / {{baseUrl}}/todolist" id="3bcd334a-f6a3-4661-bdc2-8bbee6090f98" timestamp="2026-02-13T11:22:02.217Z" tests="0" failures="0" errors="0" time="0.036"/>
+  <testsuite name="todolist / {{baseUrl}}/todo/item" id="ffb05b0c-313a-4767-86d2-76aac2e0c6f4" timestamp="2026-02-13T11:22:02.217Z" tests="0" failures="0" errors="0" time="0.019"/>
+  <testsuite name="todolist / {{baseUrl}}/todo/{{listId}}/tasks/{{taskId}}" id="c471888b-dca8-4183-8701-50e08060b788" timestamp="2026-02-13T11:22:02.217Z" tests="0" failures="0" errors="0" time="0.019"/>
+  <testsuite name="todolist / {{baseUrl}}/todo/{{listId}}/tasks" id="32bd4e36-bc4e-4b89-b0e3-2112e5d17ed1" timestamp="2026-02-13T11:22:02.217Z" tests="0" failures="0" errors="0" time="0.013"/>
+  <testsuite name="/ / tasklist_phase2_lab3.collection" id="b4c1775b-0f81-4fee-b561-86c3b4f31bcc" timestamp="2026-02-13T11:22:02.217Z" tests="0" failures="0" errors="0" time="0.011"/>
+</testsuites>
